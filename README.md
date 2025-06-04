@@ -70,3 +70,7 @@
 <p align="left">My Projects:<br><br>bittsi.com<br>hitobit.com<br>rebox.ir<br>footbaliga.ir<br>metaponic.com<br>vidaneh.com</p>
 
 ###
+
+<p align="left">My Resume :<br>https://drive.google.com/file/d/1snxWfIVGW9AU0nipHOxwiYYAU_HRikwF/view?usp=sharing</p>
+
+###
