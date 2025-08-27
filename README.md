@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, I’m Mohammad Zeighami — a Frontend Developer with 5+<br>years of experience specializing in building scalable and user-<br>focused web applications using React and Next.js.<br>I'm currently pursuing a Bachelor'<br>s degree in Software<br>Engineering, which complements my hands-on development<br>experience with deeper knowledge of software architecture and<br>design principles.<br>My tech stack includes React Query, Redux, Axios, Zustand, and<br>design systems like ShadCN and TailwindCSS. I have a strong<br>focus on clean code, performance optimization, and component<br>reusability.<br>Beyond coding, I’m passionate about:<br>• Clean Architecture in frontend<br>• Smart form handling with React Hook Form + reducers<br>• Staying current with the latest trends in web development</p>
+<p align="left">Hi, I’m Mohammad Zeighami — a Frontend Developer with +5<br>years of experience specializing in building scalable and user-<br>focused web applications using React and Next.js.<br>I'm currently pursuing a Bachelor'<br>s degree in Software<br>Engineering, which complements my hands-on development<br>experience with deeper knowledge of software architecture and<br>design principles.<br>My tech stack includes React Query, Redux, Axios, Zustand, and<br>design systems like ShadCN and TailwindCSS. I have a strong<br>focus on clean code, performance optimization, and component<br>reusability.<br>Beyond coding, I’m passionate about:<br>• Clean Architecture in frontend<br>• Smart form handling with React Hook Form + reducers<br>• Staying current with the latest trends in web development</p>
 
 ###
 
